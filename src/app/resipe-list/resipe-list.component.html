@@ -1,0 +1,26 @@
+
+<app-resipe-search></app-resipe-search>
+<div class="resipe-list">
+  <div class="container">
+    <div class="row" *ngIf="filteredMeals.length > 0">
+      <div class="col-md-4 mb-3" *ngFor="let meal of filteredMeals">
+        <div class="card text-white" style="height: 400px;">
+          <img class="card-img-top m-0" [src]="meal.image" alt="Card image cap" style="width: 100%; height: 200px;">
+          <div class="card-body p-0 " style="background-color: #5C5C5C;border: 1px solid gold;">
+            <h5 class="card-title fw-bold text-black" style="background-color: gold;" >{{ meal.name }}</h5>
+            <p class="card-text p-2">{{ meal.description }}</p>
+            <span class="price p-2 fw-bold "> price: {{meal.price}}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div *ngIf="filteredMeals.length === 0">
+    <p class="text-center fw-bold text-info fs-2 p-2">No meals found</p>
+
+
+  </div>
+
+</div>

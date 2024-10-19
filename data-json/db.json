@@ -1,0 +1,112 @@
+{
+    "meals": [
+      {
+        "id": "101",
+        "name": "Spaghetti Carbonara",
+        "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+        "image": "https://images.unsplash.com/photo-1719250726371-b4076d48ce6c?q=80&w=1469&auto=format",
+      "price": "300$"
+      },
+      {
+        "id": "102",
+        "name": "Margherita Pizza",
+        "description": "A traditional pizza topped with fresh tomatoes, mozzarella cheese, basil, and olive oil.",
+       
+        "image": "https://images.unsplash.com/photo-1649688423692-308d2fc1027d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+       "price": "205$"
+      },
+      {
+        "id": "103",
+        "name": "Caesar Salad",
+        "description": "Crisp romaine lettuce, parmesan cheese, croutons, and Caesar dressing.",
+        "image": "https://media.istockphoto.com/id/1394777972/photo/caesar-salad.jpg?s=2048x2048&w=is&k=20&c=1fdmDMRS5k8wGHlLtS4MeywJWzF4PCpiYID1V-ntlps=",
+       "price": "48$"
+      },
+      {
+        "id": "104",
+        "name": "Grilled Salmon",
+        "description": "Fresh salmon fillet grilled to perfection, served with a lemon butter sauce.",
+        "image": "https://media.istockphoto.com/id/175028181/photo/fillet-of-salmon-with-vegetable.jpg?s=1024x1024&w=is&k=20&c=zcn5Kao_6bgnxA0T8rrJqBhp7ZL38FGaNcNILjTGqS4=",
+      
+        "price": "144$"},
+      {
+        "id": "105",
+        "name": "Chocolate Lava Cake",
+        "description": "A rich chocolate cake with a gooey molten center, served with vanilla ice cream.",
+        "image": "https://media.istockphoto.com/id/468962184/photo/swiss-chocolate-cake.jpg?s=1024x1024&w=is&k=20&c=Xhh8PQW7yEZtgalYeoJtkab-G4pWyJ_MBD9eEEFZfAQ=",
+       "price": "90$"
+      },
+      {
+      "id": "106",
+      "name": "Burger Bliss",
+      "description": "A trendy spot offering gourmet burgers with unique toppings and a variety of craft beers.",
+      "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=1398&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+       "price": "120$"
+    },
+      {
+        "id": "107",
+        "name": "Smash Burger",
+        "description": "A trendy burger joint offering a variety of gourmet burgers with fresh ingredients.",
+        "image": "https://images.unsplash.com/photo-1678110707289-ab14382a1625?q=80&w=1392&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+       "price": "170$"
+      },
+      {
+        "id": "108",
+        "name": "Taco Fiesta",
+        "description": "Enjoy the vibrant flavors of Mexico at Taco Fiesta, with street tacos and refreshing margaritas.",
+        "image": "https://images.unsplash.com/photo-1713667417768-d9a85771b4bb?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+       "price": "100$"
+      },
+      {
+        "id": "109",
+        "name": "Bistro Bella",
+        "description": "A French-inspired bistro offering elegant dishes and a fine selection of wines.",
+        "image": "https://images.unsplash.com/photo-1701887138421-0245712e17e5?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+       "price": "180$"
+      },
+      {
+        "id": "110",
+        "name": "The Curry House",
+        "description": "A popular spot for authentic Indian cuisine, featuring a range of flavorful curries and tandoori dishes.",
+        "image": "https://media.istockphoto.com/id/2166545072/photo/curry-udon.jpg?s=1024x1024&w=is&k=20&c=JpCjbSg2pGbREFauHggqXuH3HriLdkM2VkwwmD4ovho=",
+       "price": "300$"
+      },
+      {
+        "id": "112",
+        "name": "Lemon Drizzle Cake",
+        "description": "The cake is soaked in a tangy lemon syrup while still warm, creating a moist texture with a burst of citrus in every bite",
+        "image": "https://media.istockphoto.com/id/489976768/photo/sticky-lemon-cake.jpg?s=1024x1024&w=is&k=20&c=BP2A1ePpQCNtE0100ptJrEgCRF5-rGSS7vt6vGBbo-0=",
+       "price": "200$"
+      },
+      {
+        "id": "113",
+        "name": "Chicken Alfredo Pasta",
+        "description": "Fettuccine pasta tossed in a creamy Alfredo sauce with grilled chicken.",
+       "image" :"https://media.istockphoto.com/id/1413553779/photo/chicken-alfredo-pasta-in-a-bowl-garnished-with-basil-leaves.jpg?s=2048x2048&w=is&k=20&c=2VCyEnCOnEURNv3fiC2sRGaAblumOYJqKHOEPSjAWQg=",
+       "price": "300$"
+      },
+      {
+        "id": "114",
+        "name": "Stuffed Mushrooms",
+        "description": "Mushrooms filled with a mix of cream cheese, herbs, and breadcrumbs, then baked until golden.",
+        "image": "https://media.istockphoto.com/id/1495143670/photo/french-onion-stuffed-mushroom-caps.jpg?s=2048x2048&w=is&k=20&c=9EgoZxZrOkTQCRdGBIBX_8N4qYhhGTWl1BLGxtFb7GQ=",
+       "price": "300$"
+      },
+      {
+        "id": "115",
+        "name": "The Pancake ",
+        "description": "Famous for its all-day breakfast menu, offering fluffy pancakes, waffles, and freshly brewed coffee.",
+        "image": "https://media.istockphoto.com/id/1917302932/photo/breakfast-table.jpg?s=2048x2048&w=is&k=20&c=hnyBfXfBedSxAp_KbbY9Qz3dDIZgBDM6JKGkhEE-NjY=",
+       "price": "100$"
+      },
+      {
+        "id": "116",
+        "name": "Beef Tacos",
+        "description":" Soft corn tortillas filled with seasoned beef, lettuce, cheese, and salsa Sides",
+        "image": "https://media.istockphoto.com/id/1333647378/photo/homemade-american-soft-shell-beef-tacos.jpg?s=2048x2048&w=is&k=20&c=JPz2VPQ9MGBlE8jvKrGR6ytPt_CpcrXqtcPPGUfNW5I=",
+       "price": "200$"
+      }
+    
+   
+    ]
+  }

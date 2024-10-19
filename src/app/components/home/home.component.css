@@ -1,0 +1,48 @@
+.home
+{
+
+display: flex;
+justify-content: space-between;
+overflow: hidden;
+flex-wrap: wrap;
+align-items: center;
+margin-bottom: 100px;
+}
+.home .left{
+text-align: center;
+ display: flex;
+flex-direction:column;
+justify-content: center;
+align-items: center;
+}
+.home .carousel-item{
+  max-height: 100vh;
+  height: 100vh;
+  overflow: hidden;
+}
+.home .carousel-item img{
+  height: 100vh;
+  max-height: 100vh,
+
+}
+.home .right{
+  overflow: hidden;
+}
+
+
+.home h4
+{
+  font-style: italic;
+  font-family: cursive;
+}
+.home button{
+  color: white
+
+}
+
+ .home img{
+  max-width: 100%;
+}
+
+
+

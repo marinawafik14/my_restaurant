@@ -1,0 +1,28 @@
+.chefs{
+  margin-bottom: 100px;
+
+}
+
+.chefs .card{
+  transition:  1s ;
+}
+
+
+.chefs .card:hover img{
+
+  animation: flash 1s  linear;
+
+
+}
+
+.chefs .card:hover{
+  transform: translateY(20px);
+}
+
+.chefs .card-img-top{
+  height: 287px;
+}
+
+.chefs .card-body .card-title{
+  color:#FFD700 ;
+}

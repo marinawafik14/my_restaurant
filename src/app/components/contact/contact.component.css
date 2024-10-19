@@ -1,0 +1,29 @@
+
+
+.contact img {
+  max-width: 100%;
+}
+
+.contact {
+  background-color: #f9721e;
+}
+.form-container {
+  max-width: 600px;
+  margin: 50px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+}
+.form-container
+{
+  box-shadow: 2px 2px 4px 4px rgba(0,0,0,0.09);
+}
+
+
+.form-control
+{
+border: none;
+border-bottom: 1px solid #777;
+border-radius: none;
+
+}

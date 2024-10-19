@@ -1,0 +1,31 @@
+.about {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  overflow: hidden;
+  flex-wrap: wrap;
+
+}
+
+.about h2 {
+  color: #2a2a2a;
+  font-weight: bold;
+  margin: 10px 0 10px 0;
+  color:#FFD700;
+}
+
+.about .food {
+  display: flex;
+  justify-content: space-between;
+}
+.about .text-center{
+  transition: 1s;
+}
+ .about .text-center:hover img{
+  animation: flash 1s  linear;
+  transform: scale(1.1);
+}
+
+.video{
+  max-width: 100%;
+}

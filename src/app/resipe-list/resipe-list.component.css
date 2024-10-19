@@ -1,0 +1,21 @@
+.resipe-list .card{
+  transition: 01s;
+}
+.resipe-list .card-body{
+
+  overflow: hidden;
+}
+.resipe-list .card-body .card-title{
+  padding: 10px;
+  background-color: gold;
+  text-align: center
+
+}
+
+.resipe-list .card-body p{
+  font-size: 15px;
+}
+
+.resipe-list .card:hover{
+  transform: scale(0.9);
+}

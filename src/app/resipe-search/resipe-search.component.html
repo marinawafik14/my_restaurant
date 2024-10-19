@@ -1,0 +1,10 @@
+<div class="resipe-search mb-3"  >
+  <div class="container mb-5 ">
+    <h3 class="fw-bold m-2" style="color: #FFD700;">Search your recipes</h3>
+    <div class="input-group mb-3">
+      <input [(ngModel)]="searchQuery" type="text" class="form-control" placeholder="Enter Meal Name" aria-label="Search" aria-describedby="button-search">
+      <button (click)="search()" class="btn btn-outline-primary" type="button" id="button-search">Search</button>
+    </div>
+  </div>
+</div>
+

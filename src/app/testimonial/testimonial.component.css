@@ -1,0 +1,29 @@
+.testimonials-section {
+  background: linear-gradient(135deg, #9b59b6, #e74c3c);
+  color: white;
+
+}
+
+.testimonial-card {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s;
+}
+
+.testimonial-card:hover {
+  transform: translateY(-10px);
+}
+
+.rounded-circle {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border: 3px solid white;
+}
+
+
+
+
+
+
